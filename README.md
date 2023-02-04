@@ -1,0 +1,2 @@
+# multiInstance
+ This project aims to provide an easy solution for creating multiple instances of any application in Windows 11. It provides a user-friendly interface for duplicating and launching new instances of apps, enabling users to multitask and run multiple instances of the same app side by side. Whether it be for personal or professional use, this project is the perfect tool for anyone looking to increase their productivity and efficiency on Windows 11.
